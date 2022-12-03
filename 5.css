@@ -1,0 +1,10 @@
+﻿body {
+    background: url(img2/class7.jpg);
+    background-size: 90%;
+}
+table tr:nth-child(odd) { 
+    background: #d2fcdc;
+}
+tr td {
+    text-align: center;
+}
